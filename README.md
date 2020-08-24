@@ -1,6 +1,6 @@
 # De novo design
 The codes below are confirmed for normal operation with AWS Deep Learning AMI (Ubuntu 18.04) Version 32.0 under the pytorch_p36 conda environment.
-All codes are downloaded from github ( [REINVENT](https://github.com/MolecularAI/Reinvent), [GENTRL](https://github.com/insilicomedicine/GENTRL), [MOSES](https://github.com/molecularsets/moses) ). After activating pytorch environment, you have to install rdkit package 
+Codes are slightly adpated from the following githubs : [REINVENT](https://github.com/MolecularAI/Reinvent), [GENTRL](https://github.com/insilicomedicine/GENTRL), [MOSES](https://github.com/molecularsets/moses). After activating pytorch environment, you have to install rdkit package 
 ```bash
 conda install -c conda-forge rdkit 
 ```
